@@ -1,0 +1,46 @@
+*** Real Spaces Change log ***
+- Version 1.0 - 19 July, 2014
+	
+	* First Release
+- Version 1.0.1 - 29 July, 2014
+	*  Countries and city/states list updated
+- Version 1.1 - 9 August, 2014
+	
+	* Option to choose user type at Register page
+	* Add to favourite option for properties
+	* Save search for future reference
+	* Enable/Disable search form fields for home page search form
+	* Email notification to users when they add property to favourites
+	* Agent contact form on single property page for easy enquiry
+	* Removed image dimension restriction from add property page
+	* Removed image dimension restriction from agent profile page
+	* Modal popup box on add property page after submission
+	* Changed wording draft to pending review on agent properties page 
+	* Agent details editing for admin from wp-admin
+	* Added option to search property by property id, postal code, address
+	* Fixed! agent logged out after registering, now ill be logged in
+	* Fixed bug for zoom map on single property page
+	* Added Boxed version with patterns
+
+- v1.2 – September 11, 2014
+
+	NEW!Custom city and area option
+	NEW! Property comparison
+	NEW!Custom images/banners slider for homepage
+	NEW! Option to show/hide top bar login button, drop down
+	NEW! Option to add favicon at Theme Options
+	NEW! option to hide/show agent details on property page
+	NEW! Change header, footer backgrounds from Theme Options
+	NEW! 18 Layered PSD files added
+	NEW! Search filters on search results page
+	NEW! ability to make properties private
+	NEW! Option to choose multiple countries at Theme Options
+	NEW! Option to choose map zoom level for each property
+	NEW! Add custom amenities from theme options or manage default ones
+	UPDATED! now map will be set as default property banner
+	UPDATED! All search fields option added for search form widget with option to add/remove fields and drag drop positioning
+	UPDATED! Agent details can be edited from wp-admin as well
+	UPDATED! manage/add amenities to property from wp-admin
+	FIXED! Small styling issues
+	FIXED! Performance enhancement for smart phones
+	FIXED! Colombian Pesos currency symbol problem
